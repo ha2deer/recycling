@@ -24,7 +24,7 @@ margin: 5px;
 }
 .active{
     /* background-color:#288C36 ; */
-    /* color:aliceblue !important; */
+    color:rgb(118, 120, 121) !important;
     padding: 10px 15px;
     border-bottom:2px solid #288C36;
     /* border-radius: 20px; */
