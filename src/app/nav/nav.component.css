@@ -23,10 +23,11 @@ margin: 5px;
     font-size: 1rem;
 }
 .active{
-    background-color:#288C36 ;
-    color:aliceblue !important;
+    /* background-color:#288C36 ; */
+    /* color:aliceblue !important; */
     padding: 10px 15px;
-    border-radius: 20px;
+    border-bottom:2px solid #288C36;
+    /* border-radius: 20px; */
     
 }
 *{
