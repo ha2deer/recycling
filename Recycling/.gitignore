@@ -1,6 +1,0 @@
-node_modules/
-*.log# Create the .gitignore file
-New-Item -Path .gitignore -ItemType File
-
-# Open the .gitignore file in Notepad for editing
-notepad .gitignore
